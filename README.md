@@ -2,9 +2,8 @@
 
 **Junior Software Quality Assurance (SQA) Engineer | Manual & Automation Testing**
 
-📧 [Email](mailto:mahbubfaisal.cse@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mahbubfaisal/)  
-💻 [GitHub](https://github.com/mahbubfaisalcse)
+📧 Email: mahbubfaisal.cse@gmail.com
+🔗 [LinkedIn: https://www.linkedin.com/in/mahbubfaisal/  
 
 ---
 
