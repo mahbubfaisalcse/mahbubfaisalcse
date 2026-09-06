@@ -29,34 +29,24 @@ well-structured test processes that improve software quality.
 
 ## Skills & Tools
 
-**Testing**                    **Automation**
+| Testing | Automation | Tools |
+|---|---|---|
+| Manual Testing | Playwright | Postman |
+| Functional Testing | Selenium | Jira |
+| Regression Testing | JavaScript | Git |
+| Smoke & Sanity | Newman | GitHub |
+| UI/UX Testing |  | VS Code |
+| API Testing |  | MySQL Workbench |
+| Database Testing |  | JMeter |
+| Performance Testing |  |  |
 
-- Manual Testing               - Playwright
-- Functional Testing           - Selenium
-- Regression Testing           - JavaScript
-- Smoke & Sanity Testing       - Newman
-- UI/UX Testing
-- API Testing
-- Database Testing
-- Performance Testing
-- Compatibility Testing
-
-**Automation**
-
-- Playwright
-- Selenium
-- JavaScript
-- Newman
-
-**Tools**
-
-- Postman
-- Jira
-- Git
-- GitHub
-- MySQL Workbench
-- JMeter
-- VS Code
+| QA Process | Database | Other |
+|---|---|---|
+| STLC | SQL | REST API |
+| Test Planning | MySQL | Agile |
+| Test Case Design |  | CI/CD Basics |
+| Bug Reporting |  |  |
+| QA Documentation |  |  |
 
 ---
 
