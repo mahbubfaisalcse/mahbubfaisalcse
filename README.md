@@ -29,12 +29,12 @@ well-structured test processes that improve software quality.
 
 ## Skills & Tools
 
-**Testing**
+**Testing**                    **Automation**
 
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- Smoke & Sanity Testing
+- Manual Testing               - Playwright
+- Functional Testing           - Selenium
+- Regression Testing           - JavaScript
+- Smoke & Sanity Testing       - Newman
 - UI/UX Testing
 - API Testing
 - Database Testing
