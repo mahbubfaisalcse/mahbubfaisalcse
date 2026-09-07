@@ -1,6 +1,6 @@
 # Mahbubul Islam
 
-**Junior Software Quality Assurance (SQA) Engineer | Manual & Automation Testing**
+** Software Quality Assurance (SQA) Engineer | Manual & Automation Testing**
 
 📧 Email: mahbubfaisal.cse@gmail.com
 🔗 [LinkedIn: https://www.linkedin.com/in/mahbubfaisal/  
