@@ -64,6 +64,21 @@ well-structured test processes that improve software quality.
   - Test Execution Report
   - Test Summary Report
 - Documented defects with reproduction steps and video evidence.
+  
+  ### 🐞 Bug Summary
+| Bug ID  | Severity | Priority | Business Impact                                                        |
+| ------- | -------- | -------- | ---------------------------------------------------------------------- |
+| BUG-001 | Critical | P1       | Prevents users from logging in, blocking account access.               |
+| BUG-002 | Critical | P1       | Allows duplicate accounts, causing data integrity issues.              |
+| BUG-003 | Critical | P1       | Accepts invalid emails, resulting in unreliable user data.             |
+| BUG-004 | Major    | P1       | Prevents password recovery and may lock users out of their accounts.   |
+| BUG-005 | Major    | P1       | Allows incomplete orders, potentially affecting order processing.      |
+| BUG-006 | Major    | P2       | Accepts invalid customer names, reducing data quality.                 |
+| BUG-007 | Average  | P3       | Accepts invalid ZIP codes, potentially affecting delivery information. |
+
+**Total Bugs:** 7
+**Critical:** 3 | **Major:** 3 | **Average:** 1
+
 
 📄 [View Project](https://github.com/mahbubfaisalcse/QABrains-Practice-Site-Testing)
 
