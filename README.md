@@ -105,10 +105,18 @@ Manual Testing • Test Case Design • Functional Testing • UI/UX Testing •
 
 ### 🎭 Swag Labs UI Automation with Playwright
 
-- UI automation using Playwright.
-- Automated web application test scenarios.
-- Applied JavaScript-based automation concepts.
-- Performed locator strategies, assertions and test execution.
+📌 Project Overview
+- Automated Swag Labs (SauceDemo) web application using Playwright & JavaScript
+- Automated login scenarios for Standard, Locked-Out, and Performance Glitch users
+- Validated product sorting, add-to-cart, and checkout workflows
+- Verified product names and total price calculations
+- Validated checkout success messages, URLs, and error messages
+- Implemented Page Object Model (POM) for reusable and maintainable test automation
+- Used assertions and validations to verify expected application behavior
+- Managed project with Node.js, Git & GitHub
+  
+🛠️ Tools & Technologies
+Playwright • JavaScript • Node.js • Page Object Model (POM) • Git • GitHub
 
 📄 [View Project](https://github.com/mahbubfaisalcse/Swag-Labs-UI-Automation-With-Playwright)
 
@@ -116,9 +124,19 @@ Manual Testing • Test Case Design • Functional Testing • UI/UX Testing •
 
 ### 🔌 API Automation
 
-- API testing and automation.
-- Worked with request/response validation and automated API scenarios.
-- Used JavaScript and Newman-based testing workflows.
+📌 Project Overview
+- Automated ReqRes REST APIs using Postman & JavaScript
+- Implemented token-based authentication and Bearer Token handling
+- Tested login, user retrieval, user verification, and profile management
+- Automated PUT and PATCH requests with response validation
+- Covered negative scenarios including 400, 401, and 404 responses
+- Created automated status code, response body, and data assertions
+- Used collection variables for reusable test data and authentication
+- Executed API tests using Postman Collection Runner & Newman
+- Supported HTML test reporting through Newman
+  
+🛠️ Tools & Technologies
+Postman • JavaScript • REST API • Newman • Bearer Token Authentication • API Assertions • Positive & Negative Testing
 
 📄 [View Project](https://github.com/mahbubfaisalcse/API-Automation)
 
