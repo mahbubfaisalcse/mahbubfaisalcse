@@ -52,6 +52,45 @@ well-structured test processes that improve software quality.
 
 ## Projects
 
+### 🧪 EverShop Demo – Manual Testing & Bug Reporting
+
+A manual SQA project focused on exploratory, functional, validation, UI, and responsive testing of the EverShop Demo e-commerce application.
+
+🔍 What I Tested
+- User Registration, Login & Password Reset
+- Input Validation & Authentication
+- Product Listing & Add to Cart
+- Checkout Process
+- UI & Responsive Design across Desktop, Tablet and Mobile
+  
+🐞 Key Findings
+- Identified and documented 9 functional, validation, and UI defects
+- Classified bugs based on severity and defect type
+- Covered issues affecting account access, data validation, product interaction, and responsive usability
+  
+📋 QA Documentation
+- Detailed Bug Reports with reproduction steps
+- Actual vs. Expected Results
+- Severity & Bug Type Classification
+- Screenshot and video evidence
+- Centralized Excel-based bug report
+
+ 📊 Business Impact of Identified Bugs
+
+The identified defects could have affected customer experience, data quality, security, checkout usability, and potential revenue.
+
+| Bug | Potential Business Impact |
+|---|---|
+| **B-001 – Reset Password Not Working** | Customers may lose account access, increasing support requests and potential customer churn. |
+| **B-002 – Password Accepts Only Lowercase Characters** | Restrictive validation may frustrate users and increase registration abandonment. |
+| **B-003 – Invalid Email Format Accepted** | Incorrect email data may affect order communication, account recovery, marketing, and customer support. |
+| **B-004 – Password Accepts Only Numeric Characters** | Weak password validation may reduce account security and increase the risk of unauthorized access. |
+| **B-005 – Single-Character Name Accepted** | Poor customer data quality may affect orders, invoices, customer identification, and communication. |
+| **B-006 – Numeric Name Accepted** | Invalid customer information may result in inaccurate customer records and reduced data reliability. |
+| **B-007 – Single-Character Phone Number Accepted** | Invalid phone numbers may cause delivery communication failures, delayed orders, or failed deliveries. |
+| **B-008 – Oversized Add to Cart Button on Tablet** | Poor responsive UI may reduce usability and negatively affect the shopping experience. |
+| **B-009 – Double-Click Add to Cart Selects Next Product** | Customers may accidentally interact with the wrong product, leading to incorrect orders, cart abandonment, and loss of trust. |
+
 ### 🧪 QA Brains Platform Testing
 
 - Designed **150+ manual test cases** covering multiple application modules.
