@@ -134,6 +134,15 @@ Playwright • JavaScript • Node.js • Page Object Model (POM) • Git • Gi
 - Used collection variables for reusable test data and authentication
 - Executed API tests using Postman Collection Runner & Newman
 - Supported HTML test reporting through Newman
+
+| Method   | Scenario         | Validation           |
+| -------- | ---------------- | -------------------- |
+| POST     | Login            | Status, token        |
+| GET      | User Profile     | User data            |
+| GET      | User by ID       | Name & email         |
+| PUT      | Update User      | Response & timestamp |
+| PATCH    | Partial Update   | Updated field        |
+| Negative | Invalid requests | 4xx responses        |
   
 🛠️ Tools & Technologies
 Postman • JavaScript • REST API • Newman • Bearer Token Authentication • API Assertions • Positive & Negative Testing
