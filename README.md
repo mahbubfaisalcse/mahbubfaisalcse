@@ -86,15 +86,20 @@ well-structured test processes that improve software quality.
 
 ### 🗄️ SQL for SQA
 
-- Practical SQL exercises designed specifically for QA engineers.
-- Covers queries, filtering, sorting, aggregate functions, joins and
-  subqueries.
-- Includes scenario-based SQL problems for database testing and
-  QA interviews.
-- Practiced database validation, data integrity and backend
-  verification.
+📌 Project Overview
+- Manual QA testing project for an e-commerce product & search page
+- Designed and executed functional test cases for key user workflows
+- Performed UI/UX, usability, and responsive testing
+- Validated API functionality using Postman
+- Performed cross-browser compatibility testing
+- Evaluated basic performance-related scenarios
+- Identified and documented defects with Expected vs. Actual Results
+- Applied QA practices including test scenario design, execution, and defect reporting
+  
+🛠️ Tools & Skills
+Manual Testing • Test Case Design • Functional Testing • UI/UX Testing • API Testing (Postman) • Bug Reporting • Responsive Testing • Compatibility Testing • Performance Testing
 
-📄 [View Project](https://github.com/mahbubfaisalcse/SQL-Practice-for-SQA)
+📄 [View Project](https://github.com/mahbubfaisalcse/Test-Cases-and-Product-Page-QA)
 
 ---
 
