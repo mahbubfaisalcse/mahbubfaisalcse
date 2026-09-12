@@ -84,7 +84,7 @@ well-structured test processes that improve software quality.
 
 ---
 
-### 🗄️ SQL for SQA
+### 🗄️ Search Functionality & Product Page QA Testing
 
 📌 Project Overview
 - Manual QA testing project for an e-commerce product & search page
