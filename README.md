@@ -1,4 +1,4 @@
-# Mahbubul Islam
+# Md.Mahbubul Islam
 
 ** Software Quality Assurance (SQA) Engineer | Manual & Automation Testing**
 
@@ -52,7 +52,7 @@ well-structured test processes that improve software quality.
 
 ## Projects
 
-### 🧪 QA Brains Practice Platform Testing
+### 🧪 QA Brains Platform Testing
 
 - Designed **150+ manual test cases** covering multiple application modules.
 - Performed functional, UI/UX, usability, compatibility, performance
@@ -84,7 +84,7 @@ well-structured test processes that improve software quality.
 
 ---
 
-### 🗄️ SQL Practice for SQA
+### 🗄️ SQL for SQA
 
 - Practical SQL exercises designed specifically for QA engineers.
 - Covers queries, filtering, sorting, aggregate functions, joins and
@@ -100,10 +100,10 @@ well-structured test processes that improve software quality.
 
 ### 🎭 Swag Labs UI Automation with Playwright
 
-- UI automation practice using Playwright.
+- UI automation using Playwright.
 - Automated web application test scenarios.
 - Applied JavaScript-based automation concepts.
-- Practiced locator strategies, assertions and test execution.
+- Performed locator strategies, assertions and test execution.
 
 📄 [View Project](https://github.com/mahbubfaisalcse/Swag-Labs-UI-Automation-With-Playwright)
 
@@ -111,7 +111,7 @@ well-structured test processes that improve software quality.
 
 ### 🔌 API Automation
 
-- API testing and automation practice.
+- API testing and automation.
 - Worked with request/response validation and automated API scenarios.
 - Used JavaScript and Newman-based testing workflows.
 
