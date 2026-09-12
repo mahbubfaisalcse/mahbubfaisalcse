@@ -52,7 +52,7 @@ well-structured test processes that improve software quality.
 
 ## Projects
 
-### 🧪 EverShop Demo – Manual Testing & Bug Reporting
+### 1. EverShop Demo – Manual Testing & Bug Reporting
 
 A manual SQA project focused on exploratory, functional, validation, UI, and responsive testing of the EverShop Demo e-commerce application.
 
@@ -91,7 +91,9 @@ The identified defects could have affected customer experience, data quality, se
 | **B-008 – Oversized Add to Cart Button on Tablet** | Poor responsive UI may reduce usability and negatively affect the shopping experience. |
 | **B-009 – Double-Click Add to Cart Selects Next Product** | Customers may accidentally interact with the wrong product, leading to incorrect orders, cart abandonment, and loss of trust. |
 
-### 🧪 QA Brains Platform Testing
+📄 [View Project](https://github.com/mahbubfaisalcse/evershop-demo-bug-reporting)
+
+### 2. QA Brains Platform Testing
 
 - Designed **150+ manual test cases** covering multiple application modules.
 - Performed functional, UI/UX, usability, compatibility, performance
@@ -123,7 +125,7 @@ The identified defects could have affected customer experience, data quality, se
 
 ---
 
-### 🗄️ Search Functionality & Product Page QA Testing
+### 3. Search Functionality & Product Page QA Testing
 
 📌 Project Overview
 - Manual QA testing project for an e-commerce product & search page
@@ -142,7 +144,7 @@ Manual Testing • Test Case Design • Functional Testing • UI/UX Testing •
 
 ---
 
-### 🎭 Swag Labs UI Automation with Playwright
+### 4. Swag Labs UI Automation with Playwright
 
 📌 Project Overview
 - Automated Swag Labs (SauceDemo) web application using Playwright & JavaScript
@@ -161,7 +163,7 @@ Playwright • JavaScript • Node.js • Page Object Model (POM) • Git • Gi
 
 ---
 
-### 🔌 API Automation
+### 5. API Automation
 
 📌 Project Overview
 - Automated ReqRes REST APIs using Postman & JavaScript
